@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "emptyStateMode": "recent-then-usage",
+    "enableQuickSwitcherHook": true,
+    "recentLimit": 10,
+    "triggerPrefix": "#"
+  },
+  "recentTags": [
+    "#computer",
+    "#bash"
+  ]
+}

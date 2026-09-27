@@ -1,0 +1,13 @@
+{
+  "vimMode": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments",
+  "useMarkdownLinks": true,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "incoming",
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": false
+}

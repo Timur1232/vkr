@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "0bee0345d54d35d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7732932ba0ce4f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9537f2ad9b1fc569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Концепция решения.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Концепция решения"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0565fad22529ba3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d84b06b1c9c9b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb4e65646b03424f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e14381e6d88f12ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0093a9b9a7011ae4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:troubeshooting",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5fbdc8f58515b31a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "1a2cd0ea1f1d56e7",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tagfolder-view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3813eabae3f5aba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "985fe61a2cd89a9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ddb19b99969c289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian_hotkeys.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Obsidian_hotkeys"
+            }
+          },
+          {
+            "id": "a16a95be6100eaf7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "c6997194a9238ee3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2d3ebdf753082dea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "6d4425a8c9bfc08d",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "My-Pc.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "a95faf5b1247dd2a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9537f2ad9b1fc569",
+  "lastOpenFiles": [
+    "Анализ предметной области.md",
+    "Концепция решения.md",
+    "public/Recycling-Memory.md",
+    "public/Obsidian-Hotkeys.md",
+    "public/Recepts.md",
+    "public/My-Troubleshooting.md",
+    "public/Git-Tips.md",
+    "public/Ikss-Topics-To-Repeat.md",
+    "private/Note-Taking-Strategy.md",
+    "private/Project.md",
+    "private/journal/2026-09-07.md",
+    "private/Uni-Decision-Theory-Lab1.md",
+    "papers/symbols.pdf",
+    "public/Better-Software-gigerBill-Tools-Of-The-Trade.md",
+    "attachments/Pasted image 20260904121256.png",
+    "private/Diploma-Topics.md",
+    "private/Youtube-Channels.md",
+    "private/Ups.md",
+    "private/My-Pc.md",
+    "private/Music-To-Try.md",
+    "public/Neovim-Troubleshooting.md",
+    "attachments/Pasted image 20260831125513.png",
+    "attachments/20260301_202025.jpg",
+    "attachments/Pasted image 20260902101705.png",
+    "attachments",
+    "attachments/Pasted image 20260831125718.png",
+    "public/Bash-Using-Env.md",
+    "public/Bash-Exit-On-Error.md",
+    "public/Aula-F75-Quick-Manual.md",
+    "public/Articles.md",
+    "incoming/Better-Software-Andrew-Reece-Assuming-as-Much-as-Possible.md",
+    "public/CachyOs-Break-After-Update.md",
+    "incoming/Test.md",
+    "papers",
+    "incoming/attachments",
+    "attachments/Pasted image 20260830152308.png",
+    "attachments/Pasted image 20260830152412.png",
+    "incoming/attachments/Pasted image 20260830152245.png",
+    "public/attachments 1",
+    "incoming",
+    "init.lua",
+    "attachments/Pasted image 20260829150507.png",
+    "attachments/Pasted image 20260829150317.png",
+    "Excalidraw",
+    "public/attachments",
+    "public/Youtube-Channels.md~",
+    "Untitled.canvas"
+  ]
+}

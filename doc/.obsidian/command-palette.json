@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "editor:save-file",
+    "editor:download-attachments",
+    "editor:open-link-in-new-split",
+    "workspace:split-vertical",
+    "workspace:split-horizontal",
+    "workspace:edit-file-title",
+    "workspace:export-pdf"
+  ]
+}

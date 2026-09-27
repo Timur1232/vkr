@@ -1,0 +1,9 @@
+h1, h2, h3, h4, h5, h6 {
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid color-mix(in srgb, var(--text-normal), transparent 60%);
+}
+
+h1 {
+    padding-bottom: 0.3em;
+    border-bottom: 6px double color-mix(in srgb, var(--text-normal), transparent 50%);
+}
