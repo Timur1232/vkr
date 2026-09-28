@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Концепция решения.md",
+                "file": "Анализ предметной области.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Концепция решения"
+              "title": "Анализ предметной области"
             }
           }
         ]
@@ -235,8 +235,19 @@
   },
   "active": "9537f2ad9b1fc569",
   "lastOpenFiles": [
-    "Анализ предметной области.md",
+    "nway-disc-slides.pdf",
+    "Не подтвержден 43364.crdownload",
+    "sync-tr.pdf",
+    "Не подтвержден 101773.crdownload",
+    "harmony-sync-tr.pdf",
+    "Не подтвержден 5078.crdownload",
+    "harmony-tgc-talk-2005.pdf",
+    "Не подтвержден 933657.crdownload",
+    "harmonyslides-2003aug.pdf",
+    "Не подтвержден 564633.crdownload",
+    "diff3-short.pdf",
     "Концепция решения.md",
+    "Анализ предметной области.md",
     "public/Recycling-Memory.md",
     "public/Obsidian-Hotkeys.md",
     "public/Recepts.md",
@@ -247,7 +258,6 @@
     "private/Project.md",
     "private/journal/2026-09-07.md",
     "private/Uni-Decision-Theory-Lab1.md",
-    "papers/symbols.pdf",
     "public/Better-Software-gigerBill-Tools-Of-The-Trade.md",
     "attachments/Pasted image 20260904121256.png",
     "private/Diploma-Topics.md",
@@ -259,7 +269,6 @@
     "attachments/Pasted image 20260831125513.png",
     "attachments/20260301_202025.jpg",
     "attachments/Pasted image 20260902101705.png",
-    "attachments",
     "attachments/Pasted image 20260831125718.png",
     "public/Bash-Using-Env.md",
     "public/Bash-Exit-On-Error.md",
@@ -267,20 +276,11 @@
     "public/Articles.md",
     "incoming/Better-Software-Andrew-Reece-Assuming-as-Much-as-Possible.md",
     "public/CachyOs-Break-After-Update.md",
-    "incoming/Test.md",
-    "papers",
-    "incoming/attachments",
     "attachments/Pasted image 20260830152308.png",
     "attachments/Pasted image 20260830152412.png",
     "incoming/attachments/Pasted image 20260830152245.png",
-    "public/attachments 1",
-    "incoming",
-    "init.lua",
     "attachments/Pasted image 20260829150507.png",
     "attachments/Pasted image 20260829150317.png",
-    "Excalidraw",
-    "public/attachments",
-    "public/Youtube-Channels.md~",
     "Untitled.canvas"
   ]
 }
