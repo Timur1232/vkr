@@ -165,7 +165,18 @@
   "smearDamping": 0.85,
   "smearMaxLength": 400,
   "harpoonPins": [],
-  "persistedJumpList": [],
+  "persistedJumpList": [
+    {
+      "filePath": "Анализ предметной области.md",
+      "line": 64,
+      "ch": 339
+    },
+    {
+      "filePath": "Анализ предметной области.md",
+      "line": 57,
+      "ch": 0
+    }
+  ],
   "persistedMarks": [],
   "persistedFolds": {}
 }
