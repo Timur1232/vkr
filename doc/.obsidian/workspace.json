@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Анализ предметной области.md",
+                "file": "by-ai/Презентация.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Анализ предметной области"
+              "title": "Презентация"
             }
           }
         ]
@@ -51,9 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -115,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3813eabae3f5aba7",
@@ -235,6 +232,18 @@
   },
   "active": "9537f2ad9b1fc569",
   "lastOpenFiles": [
+    "presentatia.pptx",
+    "shablon_present_sevsu (1).pptx",
+    "by-ai/Доклад.md",
+    "by-ai/Презентация.md",
+    "imgs/tree.png",
+    "imgs/superposition.drawio.png",
+    "imgs/sync.drawio.png",
+    "imgs",
+    "by-ai/Анализ предметной области (переинтерпретация).md",
+    "by-ai/Аналоги.md",
+    "by-ai/sedZNaBdA",
+    "Анализ предметной области.md",
     "history_of_version_control.pdf",
     "nway-disc-slides.pdf",
     "Не подтвержден 43364.crdownload",
@@ -242,12 +251,7 @@
     "Не подтвержден 101773.crdownload",
     "harmony-sync-tr.pdf",
     "Не подтвержден 5078.crdownload",
-    "harmony-tgc-talk-2005.pdf",
-    "Не подтвержден 933657.crdownload",
-    "harmonyslides-2003aug.pdf",
-    "Не подтвержден 564633.crdownload",
     "Концепция решения.md",
-    "Анализ предметной области.md",
     "public/Recycling-Memory.md",
     "public/Obsidian-Hotkeys.md",
     "public/Recepts.md",
@@ -272,15 +276,8 @@
     "attachments/Pasted image 20260831125718.png",
     "public/Bash-Using-Env.md",
     "public/Bash-Exit-On-Error.md",
-    "public/Aula-F75-Quick-Manual.md",
-    "public/Articles.md",
-    "incoming/Better-Software-Andrew-Reece-Assuming-as-Much-as-Possible.md",
-    "public/CachyOs-Break-After-Update.md",
     "attachments/Pasted image 20260830152308.png",
     "attachments/Pasted image 20260830152412.png",
-    "incoming/attachments/Pasted image 20260830152245.png",
-    "attachments/Pasted image 20260829150507.png",
-    "attachments/Pasted image 20260829150317.png",
     "Untitled.canvas"
   ]
 }
